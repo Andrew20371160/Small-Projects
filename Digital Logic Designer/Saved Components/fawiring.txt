@@ -1,6 +1,0 @@
-c:rc
-c:rcr
-cr:rcr
-cr:rcrr
-crr:rc
-crr:rcrr

@@ -1,7 +1,0 @@
-cc:crcr
-cc:rcc
-rcc:rcrcr
-rcc:rrcc
-rrcc:rrcrcr
-rrcc:rrrcc
-rrrcc:rrrcrcr

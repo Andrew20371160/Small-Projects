@@ -1,9 +1,0 @@
-:rrc
-c:r
-crc:r
-r:rrrrc
-rrc:rrr
-rrcrc:rrr
-rrcrc:rrrrcrc
-rrrrc:rrrrr
-rrrrcrc:rrrrr
